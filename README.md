@@ -13,18 +13,4 @@ Cansado dos métodos de estudo tradicionais e sem graça? 😴 Diga adeus à mes
 ## 🗣️ Feedback Inspirador: Receba orientações e motivação para manter a chama do aprendizado sempre acesa! 🔥
 O Nexus Cognitivo é mais que um simples bot: é seu catalisador de ideias, seu parceiro de estudos inteligente e a faísca da inovação que acenderá uma nova era de aprendizado eficaz, engajador e cheio de descobertas! 🤩
 
-Prepare-se para desvendar o futuro da educação. Prepare-se para o Nexus Cognitivo! ✨
-
-Como Usar:
-
-(Aqui você pode adicionar instruções básicas de como executar o programa, dependências, etc.)
-
-Contribuições:
-
-(Se você planeja receber contribuições, adicione uma seção sobre isso.)
-
-Licença:
-
-(Adicione informações sobre a licença do seu projeto.)
-
 # 💖 Feito com paixão e inteligência artificial para impulsionar seus estudos! 🚀
