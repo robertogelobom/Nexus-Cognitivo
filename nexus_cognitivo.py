@@ -15,7 +15,7 @@ from google.generativeai import types
 import datetime
 import random
 import time  
-os.environ["GOOGLE_API_KEY"] = "GOOGLE_API_KEY"
+os.environ["GOOGLE_API_KEY"] = "AIzaSyCLcxgw68jzKWq9ex0-yfopvrurk56KlKE"
 
 
 def get_gemini_response(prompt):
@@ -124,6 +124,7 @@ def main():
 
     plano_de_estudo = None
     progresso = None  # Inicializa progresso
+    meta = None # Inicializa meta
 
     while True:
         print("\nEscolha uma opção:")
