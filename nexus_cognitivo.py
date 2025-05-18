@@ -14,10 +14,8 @@ import google.generativeai as genai
 from google.generativeai import types
 import datetime
 import random
-import time  # Importa a biblioteca time
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCLcxgw68jzKWq9ex0-yfopvrurk56KlKE"
-# Defina sua chave de API do Gemini como uma variável de ambiente
-# os.environ["GOOGLE_API_KEY"] = "AIzaSyCLcxgw68jzKWq9ex0-yfopvrurk56KlKE"
+import time  
+os.environ["GOOGLE_API_KEY"] = "GOOGLE_API_KEY"
 
 
 def get_gemini_response(prompt):
