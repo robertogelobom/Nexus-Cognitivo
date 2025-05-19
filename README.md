@@ -5,13 +5,21 @@ Prepare-se para transformar sua jornada de aprendizado com o Nexus Cognitivo! Co
 ## Descubra um universo de funcionalidades inteligentes:
 
 🧠 Explicação Sob Demanda: Mergulhe fundo em qualquer técnica de estudo (Pomodoro, Feynman e mais!) com explicações detalhadas geradas pela IA. 
+
 🎯 Metas Inteligentes: Defina seus objetivos de aprendizado e foque no que realmente importa. 
+
 🗺️ Planos de Estudo Personalizados: Receba roteiros de estudo otimizados, com tópicos, ordem e tempo estimado, criados sob medida para você.
+
 ⏰ Lembretes Inteligentes: Mantenha o ritmo com notificações personalizadas para não perder o foco. 
+
 📊 Monitoramento de Progresso: Acompanhe sua evolução e visualize suas conquistas. 
+
 🎧 Recursos de Foco: Descubra playlists, sons da natureza e ferramentas para turbinar sua concentração. 🧘 Exercícios de Mindfulness: Encontre a calma e melhore o foco com práticas guiadas.
+
 ❓ Tire Suas Dúvidas: Obtenha respostas claras e concisas para suas perguntas sobre o material de estudo.
+
 🗣️ Feedback Personalizado: Receba avaliações construtivas para otimizar seu aprendizado.
+
 🔄 Adaptação Dinâmica: Seu plano de estudo se ajusta ao seu progresso e necessidades.
 
 ## Configuração da API Key
