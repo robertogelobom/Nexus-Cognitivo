@@ -38,4 +38,4 @@ Assistente Inteligente para Dúvidas: Obtenha respostas rápidas e relevantes pa
 Feedback para Melhorar Continuamente: Identifique seus pontos fortes e áreas de melhoria.
 Adaptação Dinâmica do Plano: Garanta que seu plano de estudo esteja sempre alinhado com suas necessidades.
 
-## 🚀 Prepare-se para alcançar seus objetivos de estudo de forma mais inteligente e eficaz com o Nexus Cognitivo! 🧠✨
+## 🚀 Prepare-se para alcançar seus objetivos de estudo de forma mais inteligente e eficaz com o Nexus Cognitivo!
