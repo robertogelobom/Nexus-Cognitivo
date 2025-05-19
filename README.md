@@ -14,7 +14,9 @@ Prepare-se para transformar sua jornada de aprendizado com o Nexus Cognitivo! Co
 
 📊 Monitoramento de Progresso: Acompanhe sua evolução e visualize suas conquistas. 
 
-🎧 Recursos de Foco: Descubra playlists, sons da natureza e ferramentas para turbinar sua concentração. 🧘 Exercícios de Mindfulness: Encontre a calma e melhore o foco com práticas guiadas.
+🎧 Recursos de Foco: Descubra playlists, sons da natureza e ferramentas para turbinar sua concentração. 
+
+🧘 Exercícios de Mindfulness: Encontre a calma e melhore o foco com práticas guiadas.
 
 ❓ Tire Suas Dúvidas: Obtenha respostas claras e concisas para suas perguntas sobre o material de estudo.
 
