@@ -15,7 +15,7 @@ from google.generativeai import types
 import datetime
 import random
 import time  
-os.environ["GOOGLE_API_KEY"] = "AIzaSyCLcxgw68jzKWq9ex0-yfopvrurk56KlKE"
+os.environ["GOOGLE_API_KEY"] = "GOOGLE_API_KEY"
 
 
 def get_gemini_response(prompt):
